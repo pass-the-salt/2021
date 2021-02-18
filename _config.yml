@@ -95,11 +95,13 @@ plugins:
 
 data:  
   menus:
+    - url: /
+      title: Home
     - url: https://cfp.pass-the-salt.org/pts2021/cfp
-      title: CALL FOR PAPERS
+      title: CFP
     - url: /code-of-conduct/
-      title: CODE OF CONDUCT
+      title: Code of Conduct
     - url: /#sponsors
-      title: SPONSORS
+      title: Sponsors
     - url: https://www.pass-the-salt.org/
-      title: ABOUT & ARCHIVES
+      title: About & Archives
