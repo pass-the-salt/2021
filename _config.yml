@@ -3,9 +3,9 @@ title: Pass the SALT | 2021 edition # site title
 description: >- # site description
   Welcome to the 2021 Pass the SALT website!
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+timezone: Europe/Paris # set your timezone
+image: assets/img/pts.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/pass-the-salt/2021 # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -14,14 +14,13 @@ author:
   bio: >- # tell to the world
     <b>The Free Software & Security CONFERENCE</b><br>
     <b>July, 5 to 7 2021</b><br>
-    <b>VIRTUAL EDITION</b><br>
-    <br><br>
+    <b>VIRTUAL</b><br><br>
     <b>Our Mission:</b><br><i>"Building bridges between Security communities and Free Software hackers!"</i>
   username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
+  github: pass-the-salt # github username
+  twitter: passthesaltcon # twitter username
   facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  email: contact@pass-the-salt.org # email adress
   avatar: /assets/img/logo.png # change with your own avatar
 
 # URL settings
