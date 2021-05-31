@@ -96,8 +96,8 @@ data:
   menus:
     - url: /
       title: Home
-    - url: https://cfp.pass-the-salt.org/pts2021/cfp
-      title: CFP
+    - url: https://cfp.pass-the-salt.org/pts2021/schedule/
+      title: Schedule
     - url: /code-of-conduct/
       title: Code of Conduct
     - url: /#sponsors
