@@ -84,6 +84,7 @@ exclude:
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
   - lighthouse.png
+  - jekyll_build.sh
   - klise-*.gem
   - klise.gemspec  
 
