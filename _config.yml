@@ -98,11 +98,13 @@ data:
   menus:
     - url: /
       title: Home
-    - url: https://pretix.eu/passthesalt/2021/
-      title: Register
     - url: https://cfp.pass-the-salt.org/pts2021/schedule/
       title: Schedule
-    - url: /code-of-conduct/
+    - url: https://archives.pass-the-salt.org/Pass%20the%20SALT/2021/slides/
+      title: Slides
+    - url: https://passthesalt.ubicast.tv/channels/#2021-virtual
+      title: Videos
+      - url: /code-of-conduct/
       title: Code of Conduct
     - url: /#sponsors
       title: Sponsors
