@@ -104,7 +104,7 @@ data:
       title: Slides
     - url: https://passthesalt.ubicast.tv/channels/#2021-virtual
       title: Videos
-      - url: /code-of-conduct/
+    - url: /code-of-conduct/
       title: Code of Conduct
     - url: /#sponsors
       title: Sponsors
